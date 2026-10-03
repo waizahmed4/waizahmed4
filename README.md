@@ -7,6 +7,8 @@
 
 `Python` `SQL` `C#` `Data Science` `Machine Learning` `Deep Learning`
 
+> Building, learning, and experimenting with AI, data, and software.
+
 `<br>`{=html}
 
 > **MISSION STATUS:** `ONLINE`
